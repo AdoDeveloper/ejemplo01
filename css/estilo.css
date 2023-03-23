@@ -2,3 +2,7 @@ h1{
     color: blueviolet;
     background-color: yellowgreen;
 }
+li{
+    color: blue;
+    text-decoration: none;
+}
